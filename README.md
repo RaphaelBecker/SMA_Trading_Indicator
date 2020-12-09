@@ -6,13 +6,15 @@ Imput: chart data in .csv-format
 # Preview:
 ![](images/preview.png)
 
-## TODO_1:
+TODO_1:
 improve and tweak indicators
+
+TODO_2:
 add new indicators
 
-## TODO_3:
+TODO_3:
 implement real time chart data api 
 
-## TODO_4:
+TODO_4:
 Implement notifcation via telegram group:
 https://www.geeksforgeeks.org/send-message-to-telegram-user-using-python/
