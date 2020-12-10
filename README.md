@@ -6,5 +6,5 @@ Imput: chart data in .csv-format
 # Preview:
 ![](images/preview.png)
 
-# Vision
+# Vision:
 This project will create a bot that generates trade signals and posts them by notification to a telegram group
